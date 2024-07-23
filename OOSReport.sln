@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOSReport", "OOSReport\OOSReport.csproj", "{8BAE95D1-1AFB-4682-B45D-1C1CBAA478C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OOSReportSetup", "OOSReportSetup\OOSReportSetup.vdproj", "{5D441782-EC7D-4A5B-9162-4554383DEED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAE95D1-1AFB-4682-B45D-1C1CBAA478C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAE95D1-1AFB-4682-B45D-1C1CBAA478C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAE95D1-1AFB-4682-B45D-1C1CBAA478C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAE95D1-1AFB-4682-B45D-1C1CBAA478C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D441782-EC7D-4A5B-9162-4554383DEED1}.Debug|Any CPU.ActiveCfg = Debug
+		{5D441782-EC7D-4A5B-9162-4554383DEED1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE9D08B-A2D2-4A4E-8524-DCE364F1658F}
+	EndGlobalSection
+EndGlobal
